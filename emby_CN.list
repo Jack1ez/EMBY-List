@@ -1,0 +1,21 @@
+# Emby中国服务代理规则
+
+# > Emby_CN
+DOMAIN-SUFFIX,emby.media
+DOMAIN-SUFFIX,emby.tv
+DOMAIN-SUFFIX,embyapp.com
+DOMAIN-SUFFIX,embycommunity.com
+
+# Emby相关CDN和API
+DOMAIN-SUFFIX,embycdn.com
+DOMAIN-SUFFIX,embyserver.com
+DOMAIN-SUFFIX,emby-podcasts.com
+
+# 中国地区Emby服务器
+DOMAIN-SUFFIX,emby-cn.com
+DOMAIN-SUFFIX,emby-china.com
+
+# 常见Emby第三方服务
+DOMAIN-SUFFIX,embystat.com
+DOMAIN-SUFFIX,embyr.com
+DOMAIN-SUFFIX,embybackup.com
